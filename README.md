@@ -12,6 +12,8 @@
   </p>
 </div>
 
+☝ If you like the project, please give a ⭐ on GitHub. It will motivate me to add more such project.
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>

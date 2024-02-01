@@ -1,0 +1,11 @@
+<suite name="Suite1">
+  <test name="LoginTests">
+    <classes>
+      <class name="sampletest.DemoTests">
+        <methods>
+          <include name="firstTest"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

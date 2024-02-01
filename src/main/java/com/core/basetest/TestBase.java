@@ -1,7 +1,6 @@
 package main.java.com.core.basetest;
 
-import com.testkit.config.reader.INIConfigReader;
-import com.testkit.reportmanager.ExtentReportManager;
+
 import org.testng.Assert;
 import org.testng.ITestContext;
 import org.testng.annotations.AfterSuite;

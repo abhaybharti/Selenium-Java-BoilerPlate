@@ -1,8 +1,8 @@
 package main.java.com.core.helper;
 
 import com.codeborne.selenide.SelenideElement;
-import com.testkit.actions.web.SeleniumActions;
-import com.testkit.utils.reader.JsonFileReader;
+
+import main.java.com.core.utils.reader.JsonFileReader;
 import org.apache.commons.lang3.StringUtils;
 
 import java.io.BufferedWriter;
